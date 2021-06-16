@@ -1,3 +1,18 @@
-h1 {
-    color:indigo;
+
+
+.titulo { text-align: center;
+background-color: black;
+color : white;
+padding: 20px;
+font-size: 25px;
+}
+.carta { 
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+
+}
+#computadora1 , #jugador-cartas{
+    height: 240px;
 }
